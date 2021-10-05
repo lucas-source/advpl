@@ -107,8 +107,8 @@ Private lMsErroHelp := .T.
         Aadd( aItens[ Len( aItens ) ],{ "CP_QUANT"   ,  4                      , Nil } ) // Num Quantidade
         Aadd( aItens[ Len( aItens ) ],{"CP_OBS"      ,  cObs                   , Nil } ) // Observacao
         Aadd( aItens[ Len( aItens ) ],{"CP_USER"     ,  cCodSist               , Nil } ) // Cod usuario
-        Aadd( aItens[ Len( aItens ) ],{"CP_LOCAL"    ,  cArmazem               , Nil } ) // Cod usuario
-        Aadd( aItens[ Len( aItens ) ],{"CP_ZSOLIC"   ,  cSolicit               , Nil } ) // Cod usuario
+        Aadd( aItens[ Len( aItens ) ],{"CP_LOCAL"    ,  cArmazem               , Nil } ) // Cod armazem
+        Aadd( aItens[ Len( aItens ) ],{"CP_ZSOLIC"   ,  cSolicit               , Nil } ) // Cod solicitacao fluig
 
 
         MsExecAuto( { | x, y, z | Mata105( x, y , z ) }, aCab, aItens , nOpcx )
