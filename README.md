@@ -11,7 +11,6 @@ Analista de sistema ERP Protheus.
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-rocha-1904a3172/)
 
----
 ## Desenvolvimentos 
 
 **Fluxo Faturamento** 
