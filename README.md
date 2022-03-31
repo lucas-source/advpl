@@ -13,5 +13,8 @@ Analista de sistema ERP Protheus.
 
 ## Desenvolvimentos 
 
+**Integracao Fluig x Protheus**
+* [API](https://github.com/lucas-source/advpl/tree/main/Integracao%20Fluig%20x%20Protheus)
+
 **Fluxo Faturamento** 
 * [Faturamento](https://github.com/lucas-source/advpl/tree/main/Fluxo%20Faturamento)
