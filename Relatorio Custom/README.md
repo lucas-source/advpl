@@ -2,5 +2,5 @@
 
 # Relatório CheckBox
 <p align="center">
-  <img src="relat.PNG" >
+  <img src="relat.png" >
 </p>
