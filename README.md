@@ -5,9 +5,8 @@
 </p>
   
 # Lucas Rocha Vieira
-<sub>Analista de sistema ERP</sub>
 
-Analista de sistema erp protheus.
+Analista de sistema ERP Protheus.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/lucas-rocha-1904a3172/)
